@@ -1,1 +1,1 @@
-# Useful_snippets
+# This file contains some useful snippets.
